@@ -2,15 +2,7 @@
 A hostel management system built with Hibernate and Java console project
  Hibernate Hostel Management System
 
-![Project Screenshot](https://your-repository-url/A_visually_appealing_and_informative_screenshot_of.png) 
+file:///C:/Users/SARANG/Downloads/DALL%C2%B7E%202024-10-15%2018.27.46%20-%20A%20visually%20appealing%20and%20informative%20screenshot%20of%20a%20console-based%20hostel%20management%20system%20application.%20The%20interface%20should%20display%20sections%20for%20man.webp
 
 
-## Features
-Hostel Management: Add and manage hostel details.
-Room Management: Add and manage room details and availability.
-Student Management**: Register and manage student details.
-Booking System: Facilitate room bookings for students.
-Payment Processing: Handle payments related to bookings.
-Complaint Management: Allow students to file complaints and track their status.
-Warden Interface: Enable wardens to oversee operations and manage data.
 
