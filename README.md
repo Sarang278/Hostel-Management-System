@@ -5,7 +5,7 @@
 The Hostel Management System is a console-based Java application developed using Hibernate ORM. It aims to provide a user-friendly experience for managing hostel operations, including hostels, rooms, students, bookings, payments, and complaints. The system stores records related to hostels, rooms, students, wardens, bookings, payments, and complaints.
 
 ### Features
-**Hostel Management**: Manage hostel details, such as name, address, and capacity.
+- **Hostel Management**: Manage hostel details, such as name, address, and capacity.
 - **Room Management**: Handle room details, including room number, type, and occupancy status.
 - **Student Registration**: Students can register and manage their profiles.
 - **Booking Management**: Facilitate room bookings for students, including check-in and check-out dates.
